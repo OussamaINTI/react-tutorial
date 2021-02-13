@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/OussamaINTI/react-tutorial/static/css/main.5d55cd70.chunk.css",
+    "main.js": "/OussamaINTI/react-tutorial/static/js/main.d1d970e2.chunk.js",
+    "main.js.map": "/OussamaINTI/react-tutorial/static/js/main.d1d970e2.chunk.js.map",
+    "runtime-main.js": "/OussamaINTI/react-tutorial/static/js/runtime-main.bccd3895.js",
+    "runtime-main.js.map": "/OussamaINTI/react-tutorial/static/js/runtime-main.bccd3895.js.map",
+    "static/js/2.882df8d4.chunk.js": "/OussamaINTI/react-tutorial/static/js/2.882df8d4.chunk.js",
+    "static/js/2.882df8d4.chunk.js.map": "/OussamaINTI/react-tutorial/static/js/2.882df8d4.chunk.js.map",
+    "index.html": "/OussamaINTI/react-tutorial/index.html",
+    "static/css/main.5d55cd70.chunk.css.map": "/OussamaINTI/react-tutorial/static/css/main.5d55cd70.chunk.css.map",
+    "static/js/2.882df8d4.chunk.js.LICENSE.txt": "/OussamaINTI/react-tutorial/static/js/2.882df8d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bccd3895.js",
+    "static/js/2.882df8d4.chunk.js",
+    "static/css/main.5d55cd70.chunk.css",
+    "static/js/main.d1d970e2.chunk.js"
+  ]
+}
